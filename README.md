@@ -51,7 +51,7 @@ A machine learning-based web application to predict house prices in Bengaluru us
 
 ```bash
 git clone https://github.com/animesharyan07/Task3
-cd Bengaluru-House-Price-Prediction
+cd Task3
 ```
 ### 🔧 2. Create Virtual Environment
 ```bash
