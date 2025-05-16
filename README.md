@@ -50,7 +50,7 @@ A machine learning-based web application to predict house prices in Bengaluru us
 ### 🔧 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Bengaluru-House-Price-Prediction.git
+git clone https://github.com/animesharyan07/Task3
 cd Bengaluru-House-Price-Prediction
 ```
 ### 🔧 2. Create Virtual Environment
